@@ -24,7 +24,7 @@ MD5 HASH:04caea5648786157fb65dd51d2bc061e
 
 命令行输入:ByPassBehinder.exe
 
-![01](\image\01.jpg)
+![01](/image/01.jpg)
 
 目前支持格式为常见WebShell全版本格式:ASP,ASP.NET,PHP,JSP,JSPX
 
@@ -38,7 +38,7 @@ MD5 HASH:04caea5648786157fb65dd51d2bc061e
 
 ##### **腾讯电脑管家:**
 
-![02](image\02.jpg)
+![02](/image/02.jpg)
 
 ```
 【扫描信息】
@@ -61,7 +61,7 @@ MD5 HASH:04caea5648786157fb65dd51d2bc061e
 
 ##### **360杀毒软件:**
 
-![03](\image\03.jpg)
+![03](/image/03.jpg)
 
 ```
 360杀毒扫描日志
@@ -101,7 +101,7 @@ C:\Users\Administrator\Desktop\Demo
 
 ##### 360安全卫士:
 
-![04](image\04.jpg)
+![04](/image/04.jpg)
 
 ```
 360木马查杀扫描日志
@@ -136,25 +136,25 @@ C:\Users\Administrator\Desktop\Demo\
 
 ASP:
 
-![05](image\05.jpg)
+![05](/image/05.jpg)
 
 
 
 ASPX:
 
-![06](image\06.jpg)
+![06](/image/06.jpg)
 
 PHP:
 
-![06](image\06.jpg)
+![06](/image\07.jpg)
 
 JSP:
 
-![08](image\08.jpg)
+![08](/image/08.jpg)
 
 JSPX:
 
-![09](image\09.jpg)
+![09](/image/09.jpg)
 
 
 
@@ -162,25 +162,25 @@ JSPX:
 
 ASP:
 
-![10](image\10.jpg)
+![10](/image/10.jpg)
 
 
 
 ASPX:
 
-![11](image\11.jpg)
+![11](/image/11.jpg)
 
 
 
 PHP:
 
-![12](image\12.png)
+![12](/image/12.png)
 
 
 
 JSP:
 
-![13](image\13.jpg)
+![13](/image/13.jpg)
 
 
 
