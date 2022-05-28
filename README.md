@@ -186,7 +186,7 @@ JSP:
 
 JSPX:
 
-![15](image\15.jpg)
+![15](/image/15.jpg)
 
 
 
