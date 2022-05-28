@@ -146,7 +146,7 @@ ASPX:
 
 PHP:
 
-![06](/image\07.jpg)
+![07](/image/07.jpg)
 
 JSP:
 
